@@ -12,3 +12,6 @@ Java, JDBC, SQLite ve Maven.
 
 Nasil calisir:
 Projeyi Intellij IDEA ile acip Main.java dosyasini calistirmaniz yeterli. Veritabani dosyasi (library.db) otomatik olusacaktir.
+
+Alperen Yılmaz
+20240108021
